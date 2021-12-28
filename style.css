@@ -1,0 +1,30 @@
+body {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(80, 241, 207));
+    text-align: center;
+}
+.btn {
+    background-color: rgba(32, 32, 28, 0.87);
+    /* padding-left: 20px; */
+    border-radius: 25px;
+    margin: 10px;
+    color: rgba(41, 217, 248, 0.993);
+    
+}
+#todo-item{
+    height: 40px;
+    border-radius: 30px;
+    width: 200px;
+}
+.btn-1{
+    border-radius: 30px;
+    width: 100px;
+    height: 40px;
+    color: rgba(41, 217, 248, 0.993);
+}
+.main{
+    margin-top: 50px;
+    
+}
+#list{
+    list-style: none;
+}
